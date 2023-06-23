@@ -25,6 +25,4 @@ https://nextjs.org/docs/app/building-your-application/data-fetching/server-actio
 
 ## Screenshot
 
-<video width="640" controls>
-    <source src="https://github.com/roothybrid7/next-todo-server-actions/assets/217229/805aca38-ed6d-45f4-b5e1-f4531eeb6203" type="video/mp4" />
-</video>
+https://github.com/roothybrid7/next-todo-server-actions/assets/217229/805aca38-ed6d-45f4-b5e1-f4531eeb6203
